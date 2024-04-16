@@ -1,0 +1,100 @@
+.androidLarge2Child {
+  position: absolute;
+  top: 43.5rem;
+  left: 18.688rem;
+  width: 3.75rem;
+  height: 3.75rem;
+  object-fit: cover;
+  cursor: pointer;
+}
+.getBurn {
+  position: absolute;
+  top: 31.188rem;
+  left: 1rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+.letsKeepBurning {
+  top: 33.625rem;
+  left: 1rem;
+  font-weight: 500;
+  color: #787878;
+  display: inline-block;
+  width: 21.438rem;
+}
+.image16,
+.letsKeepBurning,
+.skip {
+  position: absolute;
+}
+.skip {
+  top: 2.75rem;
+  left: 20.188rem;
+  text-decoration: underline;
+  font-weight: 500;
+  color: #9fb2ff;
+  cursor: pointer;
+}
+.image16 {
+  top: 9.75rem;
+  left: calc(50% - 176.5px);
+  width: 22rem;
+  height: 14.663rem;
+  background-image: url(/public/image-16@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.rectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  display: none;
+}
+.statusBarIcon {
+  position: absolute;
+  top: 1rem;
+  left: 18.375rem;
+  width: 4.169rem;
+  height: 0.731rem;
+  object-fit: cover;
+}
+.time {
+  position: absolute;
+  width: 14.4%;
+  top: calc(50% - 10px);
+  left: 3.73%;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+  display: inline-block;
+}
+.androidLarge2,
+.status {
+  overflow: hidden;
+  font-family: Montserrat;
+}
+.status {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23.438rem;
+  height: 2.75rem;
+  text-align: center;
+  font-size: 0.938rem;
+  color: #252727;
+}
+.androidLarge2 {
+  width: 100%;
+  position: relative;
+  border-radius: 10px;
+  background-color: #fcfcfc;
+  height: 50rem;
+  text-align: left;
+  font-size: 1rem;
+  color: #2c2b2b;
+}

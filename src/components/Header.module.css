@@ -1,0 +1,55 @@
+.skip {
+  position: absolute;
+  top: 2.75rem;
+  left: 20.188rem;
+  text-decoration: underline;
+  font-weight: 500;
+  cursor: pointer;
+}
+.rectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  display: none;
+}
+.statusBarIcon {
+  position: absolute;
+  top: 1rem;
+  left: 18.375rem;
+  width: 4.169rem;
+  height: 0.731rem;
+  object-fit: cover;
+}
+.time {
+  position: absolute;
+  width: 14.4%;
+  top: calc(50% - 10px);
+  left: 3.73%;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+  display: inline-block;
+}
+.frame,
+.status {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23.438rem;
+  height: 2.75rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 0.938rem;
+  color: #252727;
+  font-family: Montserrat;
+}
+.frame {
+  height: 4rem;
+  text-align: left;
+  font-size: 1rem;
+  color: #9fb2ff;
+}

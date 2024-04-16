@@ -1,0 +1,170 @@
+.whatAreYour {
+  margin: 0;
+  position: absolute;
+  top: 4.25rem;
+  left: calc(50% - 109.5px);
+  font-size: 1.25rem;
+  font-weight: 600;
+  font-family: inherit;
+}
+.androidLarge6Child {
+  position: absolute;
+  top: 8.438rem;
+  left: 1rem;
+  border-radius: 12px;
+  background-color: #f1f1f1;
+  width: 21.438rem;
+  height: 3.125rem;
+}
+.weightLoss {
+  position: absolute;
+  top: 9.563rem;
+  left: 2.25rem;
+  font-weight: 600;
+}
+.androidLarge6Item {
+  position: absolute;
+  top: 12.563rem;
+  left: 1rem;
+  border-radius: 12px;
+  background-color: #f1f1f1;
+  width: 21.438rem;
+  height: 3.125rem;
+}
+.muscleGain {
+  position: absolute;
+  top: 13.688rem;
+  left: 2.25rem;
+  font-weight: 600;
+}
+.androidLarge6Inner {
+  position: absolute;
+  top: 16.688rem;
+  left: 1rem;
+  border-radius: 12px;
+  background-color: #f1f1f1;
+  width: 21.438rem;
+  height: 3.125rem;
+}
+.flexibilityAndMobility {
+  position: absolute;
+  top: 17.813rem;
+  left: 2.25rem;
+  font-weight: 600;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 20.813rem;
+  left: 1rem;
+  border-radius: 12px;
+  background-color: #f1f1f1;
+  width: 21.438rem;
+  height: 3.125rem;
+}
+.generalFitness {
+  position: absolute;
+  top: 21.938rem;
+  left: 2.25rem;
+  font-weight: 600;
+}
+.androidLarge6Child1 {
+  position: absolute;
+  top: 24.938rem;
+  left: 1rem;
+  border-radius: 12px;
+  background-color: #f1f1f1;
+  width: 21.438rem;
+  height: 3.125rem;
+}
+.eventSpecific {
+  position: absolute;
+  top: 26.063rem;
+  left: 2.25rem;
+  font-weight: 600;
+}
+.androidLarge6Child2 {
+  position: absolute;
+  top: 29.063rem;
+  left: 1rem;
+  border-radius: 12px;
+  background-color: #f1f1f1;
+  width: 21.438rem;
+  height: 3.125rem;
+}
+.mindfulnessAndMental {
+  position: absolute;
+  top: 30.188rem;
+  left: 2.25rem;
+  font-weight: 600;
+}
+.rectangleFooter {
+  position: absolute;
+  top: 41.563rem;
+  left: 1rem;
+  border-radius: 12px;
+  background: linear-gradient(270deg, #7b91ff, #95beff);
+  width: 21.438rem;
+  height: 3.125rem;
+  cursor: pointer;
+}
+.confirm {
+  position: absolute;
+  top: 42.5rem;
+  left: calc(50% - 33.5px);
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+}
+.rectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  display: none;
+}
+.statusBarIcon {
+  position: absolute;
+  top: 1rem;
+  left: 18.375rem;
+  width: 4.169rem;
+  height: 0.731rem;
+  object-fit: cover;
+}
+.time {
+  position: absolute;
+  width: 14.4%;
+  top: calc(50% - 10px);
+  left: 3.73%;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+  display: inline-block;
+}
+.androidLarge6,
+.status {
+  overflow: hidden;
+  font-family: Montserrat;
+}
+.status {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23.438rem;
+  height: 2.75rem;
+  text-align: center;
+  font-size: 0.938rem;
+  color: #252727;
+}
+.androidLarge6 {
+  width: 100%;
+  position: relative;
+  border-radius: 10px;
+  background-color: #fcfcfc;
+  height: 50rem;
+  text-align: left;
+  font-size: 0.75rem;
+  color: #2c2b2b;
+}

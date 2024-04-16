@@ -1,0 +1,509 @@
+.androidLarge8Child {
+  position: absolute;
+  top: 40.438rem;
+  left: calc(50% - 171.5px);
+  border-radius: 12px;
+  background-color: rgba(140, 177, 255, 0.6);
+  box-shadow: -4px 8px 25px -8px rgba(0, 0, 0, 0.15);
+  width: 21.438rem;
+  height: 7.75rem;
+}
+.androidLarge8Item {
+  position: absolute;
+  top: 41.438rem;
+  left: 15.438rem;
+  border-radius: 50%;
+  width: 6.25rem;
+  height: 6.25rem;
+  object-fit: cover;
+}
+.upcomingWorkout,
+.whatDoYou,
+.workoutTracker {
+  margin: 0;
+  position: absolute;
+  font-weight: 600;
+  font-family: inherit;
+}
+.workoutTracker {
+  top: 4.25rem;
+  left: calc(50% - 86.5px);
+  font-size: 1.25rem;
+  text-align: center;
+}
+.upcomingWorkout,
+.whatDoYou {
+  top: 24.5rem;
+  left: calc(50% - 171.5px);
+  font-size: 1rem;
+}
+.whatDoYou {
+  top: 38.188rem;
+  left: calc(50% - 170.5px);
+}
+.chevronLeftIcon {
+  position: absolute;
+  top: 4.375rem;
+  left: 1rem;
+  border-radius: 3px;
+  width: 1.25rem;
+  height: 1.25rem;
+  overflow: hidden;
+  object-fit: cover;
+  cursor: pointer;
+}
+.backLinesIcon,
+.unionIcon {
+  position: relative;
+  width: 0.125rem;
+  height: 0.638rem;
+  object-fit: cover;
+}
+.backLinesIcon {
+  position: absolute;
+  top: 0.031rem;
+  left: 0.056rem;
+  width: 20.488rem;
+  height: 4.388rem;
+}
+.cal {
+  position: absolute;
+  top: 0.194rem;
+  left: 0;
+  font-size: 0.825rem;
+}
+.div {
+  left: 0;
+  width: 2.5rem;
+}
+.div,
+.div1,
+.div2,
+.div3 {
+  position: absolute;
+  top: 4.706rem;
+  display: inline-block;
+}
+.div1 {
+  left: 0;
+  width: 2.563rem;
+}
+.div2,
+.div3 {
+  left: 10.425rem;
+  width: 2.375rem;
+}
+.div3 {
+  left: 6.069rem;
+  width: 2.194rem;
+}
+.chartChild,
+.chartChild1,
+.chartInner,
+.chartItem,
+.rectangleDiv {
+  position: absolute;
+  left: 9.544rem;
+  border-radius: 1.53px 1.53px 0 0;
+}
+.chartChild {
+  top: 0.063rem;
+  background-color: rgba(52, 176, 9, 0.5);
+  border: 0.4px solid #34b009;
+  box-sizing: border-box;
+  width: 0.175rem;
+  height: 4.388rem;
+}
+.chartChild1,
+.chartInner,
+.chartItem,
+.rectangleDiv {
+  top: 0.7rem;
+  background-color: #8099ff;
+  width: 0.194rem;
+  height: 3.756rem;
+}
+.chartChild1,
+.chartInner,
+.rectangleDiv {
+  top: 2.544rem;
+  left: 9.781rem;
+  width: 0.175rem;
+  height: 1.906rem;
+}
+.chartChild1,
+.rectangleDiv {
+  top: 3.881rem;
+  left: 10.419rem;
+  height: 0.575rem;
+}
+.chartChild1 {
+  top: 3.369rem;
+  left: 11.931rem;
+  height: 1.081rem;
+}
+.chartChild2,
+.chartChild3,
+.chartChild4,
+.chartChild5,
+.chartChild6,
+.chartChild7,
+.chartChild8 {
+  position: absolute;
+  top: 2.288rem;
+  left: 12.163rem;
+  border-radius: 1.53px 1.53px 0 0;
+  background-color: #8099ff;
+  width: 0.175rem;
+  height: 2.163rem;
+}
+.chartChild3,
+.chartChild4,
+.chartChild5,
+.chartChild6,
+.chartChild7,
+.chartChild8 {
+  top: 3.819rem;
+  left: 12.4rem;
+  height: 0.638rem;
+}
+.chartChild4,
+.chartChild5,
+.chartChild6,
+.chartChild7,
+.chartChild8 {
+  top: 4.006rem;
+  left: 12.631rem;
+  height: 0.444rem;
+}
+.chartChild5,
+.chartChild6,
+.chartChild7,
+.chartChild8 {
+  top: 3.881rem;
+  left: 13.619rem;
+  height: 0.575rem;
+}
+.chartChild6,
+.chartChild7,
+.chartChild8 {
+  left: 14.669rem;
+}
+.chartChild7,
+.chartChild8 {
+  top: 2.863rem;
+  left: 15.95rem;
+  height: 1.588rem;
+}
+.chartChild8 {
+  top: 3.944rem;
+  left: 16.181rem;
+  height: 0.506rem;
+}
+.chartChild9 {
+  top: 2.356rem;
+  left: 16.413rem;
+  height: 2.1rem;
+}
+.chartChild10,
+.chartChild11,
+.chartChild12,
+.chartChild9 {
+  position: absolute;
+  border-radius: 1.53px 1.53px 0 0;
+  background-color: rgba(255, 0, 0, 0.42);
+  width: 0.175rem;
+}
+.chartChild10 {
+  top: 0;
+  left: 16.65rem;
+  height: 4.45rem;
+}
+.chartChild11,
+.chartChild12 {
+  top: 1.844rem;
+  left: 16.881rem;
+  height: 2.606rem;
+}
+.chartChild12 {
+  top: 2.606rem;
+  left: 17.113rem;
+  height: 1.844rem;
+}
+.chartChild13,
+.chartChild14,
+.chartChild15,
+.chartChild16,
+.chartChild17 {
+  position: absolute;
+  top: 2.988rem;
+  left: 16.413rem;
+  border-radius: 1.53px 1.53px 0 0;
+  background-color: #8099ff;
+  width: 0.194rem;
+  height: 1.463rem;
+}
+.chartChild14,
+.chartChild15,
+.chartChild16,
+.chartChild17 {
+  top: 1.4rem;
+  left: 16.669rem;
+  width: 0.125rem;
+  height: 3.056rem;
+}
+.chartChild15,
+.chartChild16,
+.chartChild17 {
+  top: 2.669rem;
+  left: 16.856rem;
+  width: 0.194rem;
+  height: 1.781rem;
+}
+.chartChild16,
+.chartChild17 {
+  top: 3.181rem;
+  left: 17.113rem;
+  height: 1.275rem;
+}
+.chartChild17 {
+  top: 3.819rem;
+  left: 18.338rem;
+  width: 0.175rem;
+  height: 0.638rem;
+}
+.chart {
+  width: 20.55rem;
+  position: relative;
+  height: 5.644rem;
+}
+.chartFull,
+.value {
+  width: 21.438rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.chartFull {
+  position: absolute;
+  top: 10.781rem;
+  left: 1rem;
+  height: 5.625rem;
+  cursor: pointer;
+  text-align: left;
+  font-size: 0.763rem;
+  color: #2c2b2b;
+  font-family: Montserrat;
+}
+.div4,
+.youveBurnedFewer {
+  position: absolute;
+  display: inline-block;
+}
+.youveBurnedFewer {
+  top: 0.606rem;
+  left: 2.313rem;
+  font-weight: 500;
+  width: 17.563rem;
+}
+.div4 {
+  top: 0.825rem;
+  left: 19.081rem;
+  font-size: 0.825rem;
+  text-align: right;
+  width: 0.763rem;
+}
+.alertTriangleIcon {
+  position: absolute;
+  top: 0.981rem;
+  left: 0.563rem;
+  width: 1.25rem;
+  height: 1.25rem;
+  overflow: hidden;
+  object-fit: cover;
+}
+.youveBurnedFewerCaloriesTParent {
+  position: absolute;
+  top: 17.956rem;
+  left: 1rem;
+  border-radius: 10px;
+  background: linear-gradient(
+    90.07deg,
+    rgba(129, 157, 255, 0.28),
+    rgba(16, 16, 16, 0)
+  );
+  backdrop-filter: blur(40.71px);
+  border: 1px solid rgba(69, 69, 69, 0.04);
+  box-sizing: border-box;
+  width: 20.55rem;
+  height: 3.125rem;
+  font-size: 0.788rem;
+}
+.goodJob,
+.lessThen320cal {
+  position: absolute;
+  top: 8.938rem;
+  left: 14.55rem;
+  font-size: 0.7rem;
+}
+.goodJob {
+  left: 8.569rem;
+}
+.androidLarge8Child1,
+.androidLarge8Inner {
+  position: absolute;
+  top: 26.75rem;
+  left: calc(50% - 171.5px);
+  border-radius: 12px;
+  background-color: #fff;
+  box-shadow: -4px 8px 25px -8px rgba(0, 0, 0, 0.15);
+  width: 21.438rem;
+  height: 4.688rem;
+}
+.androidLarge8Child1 {
+  top: 32.438rem;
+}
+.seeMore {
+  position: absolute;
+  top: 24.625rem;
+  left: 18.75rem;
+  font-weight: 500;
+  color: gray;
+}
+.fullBodyWorkout,
+.upperBodyWorkout {
+  position: absolute;
+  top: 27.75rem;
+  left: 5.688rem;
+  font-weight: 500;
+}
+.upperBodyWorkout {
+  top: 33.688rem;
+}
+.arms,
+.chest,
+.feb330Pm,
+.fullBodyWorkout1,
+.today3pm {
+  position: absolute;
+  top: 41.438rem;
+  left: 2rem;
+  font-weight: 500;
+}
+.arms,
+.chest,
+.feb330Pm,
+.today3pm {
+  top: 42.938rem;
+  font-size: 0.625rem;
+}
+.chest,
+.feb330Pm,
+.today3pm {
+  top: 44.188rem;
+}
+.feb330Pm,
+.today3pm {
+  top: 29.188rem;
+  left: 5.688rem;
+  color: gray;
+}
+.feb330Pm {
+  top: 35.125rem;
+}
+.androidLarge8Child2,
+.ellipseIcon {
+  position: absolute;
+  top: 27.563rem;
+  left: 2rem;
+  border-radius: 50%;
+  width: 3.125rem;
+  height: 3.125rem;
+  object-fit: cover;
+}
+.androidLarge8Child2 {
+  top: 33.25rem;
+}
+.rectangleFooter {
+  position: absolute;
+  top: 45.25rem;
+  left: 0;
+  background-color: #fff;
+  width: 23.438rem;
+  height: 4.75rem;
+}
+.androidLarge8Child3,
+.groupIcon {
+  position: absolute;
+  object-fit: cover;
+}
+.groupIcon {
+  height: 3.4%;
+  width: 84.53%;
+  top: 93.26%;
+  right: 7.73%;
+  bottom: 3.34%;
+  left: 7.73%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.androidLarge8Child3 {
+  top: 43.688rem;
+  left: 9.75rem;
+  width: 3.938rem;
+  height: 3.938rem;
+}
+.rectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  display: none;
+}
+.statusBarIcon {
+  position: absolute;
+  top: 1rem;
+  left: 18.375rem;
+  width: 4.169rem;
+  height: 0.731rem;
+  object-fit: cover;
+}
+.time {
+  position: absolute;
+  width: 14.4%;
+  top: calc(50% - 10px);
+  left: 3.73%;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+  display: inline-block;
+}
+.androidLarge8,
+.status {
+  overflow: hidden;
+  font-family: Montserrat;
+}
+.status {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23.438rem;
+  height: 2.75rem;
+  text-align: center;
+  font-size: 0.938rem;
+  color: #252727;
+}
+.androidLarge8 {
+  width: 100%;
+  position: relative;
+  border-radius: 10px;
+  height: 50rem;
+  text-align: left;
+  font-size: 0.75rem;
+  color: #2c2b2b;
+}

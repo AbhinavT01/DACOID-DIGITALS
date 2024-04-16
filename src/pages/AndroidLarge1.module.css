@@ -1,0 +1,236 @@
+@keyframes shadow-inset-center {
+  0% {
+    box-shadow: inset 0 0 0 0 transparent;
+  }
+  to {
+    box-shadow: inset 0 0 14px 0 rgb(0 0 0/50%);
+  }
+}
+@keyframes jello-horizontal {
+  0%,
+  to {
+    transform: scale3d(1, 1, 1);
+  }
+  30% {
+    transform: scale3d(1.25, 0.75, 1);
+  }
+  40% {
+    transform: scale3d(0.75, 1.25, 1);
+  }
+  50% {
+    transform: scale3d(1.15, 0.85, 1);
+  }
+  65% {
+    transform: scale3d(0.95, 1.05, 1);
+  }
+  75% {
+    transform: scale3d(1.05, 0.95, 1);
+  }
+}
+.createAnAccount {
+  margin: 0;
+  position: absolute;
+  top: 4.25rem;
+  left: 1rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+  font-family: "Roboto Condensed";
+}
+.androidLarge4Child,
+.androidLarge4Inner,
+.androidLarge4Item,
+.rectangleInput {
+  background-color: transparent;
+  position: absolute;
+  top: 8.438rem;
+  left: 1rem;
+}
+.androidLarge4Inner,
+.androidLarge4Item,
+.rectangleInput {
+  top: 13.063rem;
+}
+.androidLarge4Inner,
+.rectangleInput {
+  top: 17.688rem;
+}
+.rectangleInput {
+  top: 22.313rem;
+}
+.byProceedingI {
+  color: gray;
+}
+.tc {
+  text-decoration: underline;
+}
+.span {
+  color: #eb1754;
+}
+.and {
+  color: gray;
+  white-space: pre-wrap;
+}
+.byProceedingIContainer {
+  position: absolute;
+  top: 26.938rem;
+  left: 2.875rem;
+  line-height: 177.9%;
+  font-weight: 500;
+  color: #93a9ff;
+}
+.login {
+  text-decoration: underline;
+  color: #819cff;
+}
+.alreadyHaveAnContainer {
+  position: absolute;
+  top: 47.25rem;
+  left: calc(50% - 97.5px);
+  font-weight: 500;
+  cursor: pointer;
+}
+.androidLarge4Child1,
+.lineDiv {
+  position: absolute;
+  top: 40.925rem;
+  left: 0.988rem;
+  border-top: 0.5px solid gray;
+  box-sizing: border-box;
+  width: 9.719rem;
+  height: 0.031rem;
+}
+.androidLarge4Child1 {
+  left: 12.613rem;
+  width: 9.844rem;
+}
+.or {
+  position: absolute;
+  top: 40.375rem;
+  left: calc(50% - 6.5px);
+  font-weight: 500;
+}
+.androidLarge4Child2,
+.rectangleDiv {
+  position: absolute;
+  top: 42.875rem;
+  border-radius: 8px;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  width: 2.75rem;
+  height: 2.75rem;
+}
+.rectangleDiv {
+  left: 8.375rem;
+  background-color: #d9d9d9;
+}
+.rectangleDiv:hover {
+  animation: 1s ease 0s infinite normal none shadow-inset-center;
+  opacity: 1;
+}
+.androidLarge4Child2 {
+  left: 12.25rem;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  opacity: 1;
+}
+.androidLarge4Child2.animate {
+  animation: 1s ease 0s 1 normal forwards jello-horizontal;
+}
+.androidLarge4Child2:hover {
+  animation: 1s ease 0s infinite normal none shadow-inset-center;
+  opacity: 1;
+}
+.flatColorIconsgoogle,
+.vectorIcon {
+  position: absolute;
+  overflow: hidden;
+  object-fit: cover;
+}
+.flatColorIconsgoogle {
+  top: 43.688rem;
+  left: 9.188rem;
+  width: 1.125rem;
+  height: 1.125rem;
+}
+.vectorIcon {
+  height: 2.13%;
+  width: 2.37%;
+  top: 87.38%;
+  right: 40.56%;
+  bottom: 10.5%;
+  left: 57.07%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.androidLarge4Child3 {
+  position: absolute;
+  top: 35.875rem;
+  left: 1rem;
+  border-radius: 12px;
+  background: linear-gradient(270deg, #7b91ff, #95beff);
+  width: 21.438rem;
+  height: 3.125rem;
+  cursor: pointer;
+}
+.createAnAccount1 {
+  position: absolute;
+  top: 36.813rem;
+  left: calc(50% - 76.5px);
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+  text-align: center;
+  cursor: pointer;
+}
+.rectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  display: none;
+}
+.statusBarIcon {
+  position: absolute;
+  top: 1rem;
+  left: 18.375rem;
+  width: 4.169rem;
+  height: 0.731rem;
+  object-fit: cover;
+}
+.time {
+  position: absolute;
+  width: 14.4%;
+  top: calc(50% - 10px);
+  left: 3.73%;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+  display: inline-block;
+}
+.androidLarge4,
+.status {
+  overflow: hidden;
+  font-family: Montserrat;
+}
+.status {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23.438rem;
+  height: 2.75rem;
+  text-align: center;
+  font-size: 0.938rem;
+  color: #252727;
+}
+.androidLarge4 {
+  width: 100%;
+  position: relative;
+  border-radius: 10px;
+  background-color: #fcfcfc;
+  height: 50rem;
+  text-align: left;
+  font-size: 0.75rem;
+  color: #2c2b2b;
+}

@@ -1,0 +1,191 @@
+@keyframes shadow-drop-bottom {
+  0% {
+    box-shadow: 0 0 0 0 transparent;
+  }
+  to {
+    box-shadow: 0 12px 20px -12px rgb(0 0 0/35%);
+  }
+}
+.welcomeBack {
+  margin: 0;
+  position: absolute;
+  top: 4.25rem;
+  left: 1rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+  font-family: "Roboto Condensed";
+}
+.container,
+.wrapper {
+  width: 21.438rem;
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 8.438rem;
+  left: 1rem;
+}
+.container {
+  top: 13.063rem;
+}
+.forgotYourPassword {
+  position: absolute;
+  top: 16.813rem;
+  left: 1.313rem;
+  text-decoration: underline;
+  font-weight: 500;
+  color: gray;
+}
+.createAnAccount {
+  color: #829dff;
+}
+.dontHaveAnContainer {
+  position: absolute;
+  top: 47.25rem;
+  left: calc(50% - 140.5px);
+  text-decoration: underline;
+  font-weight: 500;
+  cursor: pointer;
+}
+.androidLarge5Child {
+  position: absolute;
+  top: 35.875rem;
+  left: 1rem;
+  border-radius: 12px;
+  background: linear-gradient(270deg, #7b91ff, #95beff);
+  width: 21.438rem;
+  height: 3.125rem;
+}
+.androidLarge5Inner,
+.androidLarge5Item {
+  position: absolute;
+  top: 40.925rem;
+  left: 0.988rem;
+  border-top: 0.5px solid gray;
+  box-sizing: border-box;
+  width: 9.719rem;
+  height: 0.031rem;
+}
+.androidLarge5Inner {
+  left: 12.613rem;
+  width: 9.844rem;
+}
+.eyeOffIcon,
+.or {
+  position: absolute;
+}
+.or {
+  top: 40.375rem;
+  left: calc(50% - 6.5px);
+  font-weight: 500;
+}
+.eyeOffIcon {
+  top: 14.125rem;
+  left: 20.438rem;
+  width: 1rem;
+  height: 1rem;
+  overflow: hidden;
+  object-fit: cover;
+}
+.signIn {
+  position: absolute;
+  top: 36.813rem;
+  left: calc(50% - 29.5px);
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+}
+.androidLarge5Child1,
+.rectangleDiv {
+  position: absolute;
+  top: 42.875rem;
+  left: 8.375rem;
+  border-radius: 8px;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  width: 2.75rem;
+  height: 2.75rem;
+}
+.androidLarge5Child1:hover,
+.rectangleDiv:hover {
+  animation: 1s ease 0s infinite normal none shadow-drop-bottom;
+  opacity: 1;
+}
+.androidLarge5Child1 {
+  left: 12.25rem;
+}
+.flatColorIconsgoogle,
+.vectorIcon {
+  position: absolute;
+  overflow: hidden;
+  object-fit: cover;
+}
+.flatColorIconsgoogle {
+  top: 43.688rem;
+  left: 9.188rem;
+  width: 1.125rem;
+  height: 1.125rem;
+}
+.vectorIcon {
+  height: 2.13%;
+  width: 2.37%;
+  top: 87.38%;
+  right: 40.56%;
+  bottom: 10.5%;
+  left: 57.07%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.rectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  display: none;
+}
+.statusBarIcon {
+  position: absolute;
+  top: 1rem;
+  left: 18.375rem;
+  width: 4.169rem;
+  height: 0.731rem;
+  object-fit: cover;
+}
+.time {
+  position: absolute;
+  width: 14.4%;
+  top: calc(50% - 10px);
+  left: 3.73%;
+  letter-spacing: -0.3px;
+  font-weight: 600;
+  display: inline-block;
+}
+.androidLarge5,
+.status {
+  overflow: hidden;
+  font-family: Montserrat;
+}
+.status {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23.438rem;
+  height: 2.75rem;
+  text-align: center;
+  font-size: 0.938rem;
+  color: #252727;
+}
+.androidLarge5 {
+  width: 100%;
+  position: relative;
+  border-radius: 10px;
+  background-color: #fcfcfc;
+  height: 50rem;
+  text-align: left;
+  font-size: 0.75rem;
+  color: #2c2b2b;
+}

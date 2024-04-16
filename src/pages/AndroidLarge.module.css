@@ -1,0 +1,88 @@
+.frameIcon {
+  position: absolute;
+  top: 51.188rem;
+  left: 0;
+  width: 24.375rem;
+  height: 4.813rem;
+  overflow: hidden;
+}
+.frame,
+.frameChild {
+  position: absolute;
+  top: 0;
+}
+.frame {
+  left: -89rem;
+  width: 24.375rem;
+  height: 56rem;
+  overflow: hidden;
+}
+.frameChild {
+  left: 17.688rem;
+  width: 3.75rem;
+  height: 3.75rem;
+  cursor: pointer;
+}
+.frame2,
+.trackYourGoal {
+  position: absolute;
+  left: 0;
+}
+.frame2 {
+  top: 43.813rem;
+  width: 22.438rem;
+  height: 3.438rem;
+  overflow: hidden;
+}
+.trackYourGoal {
+  top: 0;
+  font-weight: 600;
+}
+.dontWorryIf,
+.frame3 {
+  position: absolute;
+  left: 1rem;
+  width: 21.438rem;
+}
+.frame3 {
+  top: 31.188rem;
+  height: 1.5rem;
+  overflow: hidden;
+}
+.dontWorryIf {
+  top: 33.625rem;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #787878;
+  display: inline-block;
+}
+.frame1,
+.frameIcon1 {
+  position: absolute;
+  overflow: hidden;
+}
+.frameIcon1 {
+  top: 8.25rem;
+  left: calc(50% - 141.5px);
+  width: 17.625rem;
+  height: 17.625rem;
+  object-fit: cover;
+}
+.frame1 {
+  top: 0;
+  left: 0;
+  width: 23.438rem;
+  height: 47.25rem;
+}
+.androidLarge1 {
+  width: 100%;
+  position: relative;
+  border-radius: 10px;
+  background-color: #fcfcfc;
+  height: 50rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 1.25rem;
+  color: #2c2b2b;
+  font-family: Montserrat;
+}
